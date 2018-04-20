@@ -10,4 +10,7 @@ if __name__ == "__main__":
     execute_from_command_line(sys.argv)
     #salkdjflkasdjf;lasjdf;lksjd;lkfj
 #comment checking my knowlege of git: Satish
+<<<<<<< HEAD
 #once more
+=======
+>>>>>>> 14123ab67a94491dfe2c625449abb9eaa5537e06
