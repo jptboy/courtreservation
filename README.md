@@ -1,5 +1,5 @@
 # CourtsReservationSystem
 
-Hello everyone how are you doing Kevin Durant is a snake!!!!!
-
+#LEGACY PROJECT
+Version 2 with split-stack architecture currently in development
 
